@@ -1,6 +1,6 @@
 # Tic-Tac-Toe 
 
-A simple console-based tic-tac-toe game written in C++, for two players in a command-line environment.
+A simple console-based tic-tac-toe game written in both C++ and python, for two players in a command-line environment.
 
 ##  Features
 - Two-player game
